@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://canlitv.center/channels/tv8.png",Tv8 HD 1
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://canlitv.center/channels/tv8.png",Tv8 HD 2
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8?hash=7a1d00f2a4255074963eebb99391c486
+#EXTINF:-1 tvg-logo="https://canlitv.center/channels/tv8.png",Tv8 HD 3
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=57sejdylb6e2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-logo="http://yoda.az/logos/itv.png", İctimai Tv
+https://stream.seotoolsm.com/AZ-ictimai.m3u8
+#EXTINF:-1 tvg-logo="http://yoda.az/logos/itv.png",İctimai Tv 2
+http://109.205.166.68/server124/ictimai_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.video/logo/arb-gunes.png", ARB Günəş Full HD
+http://149.255.152.199/arbgunes.m3u8?user=37076&token=1324c2b3213aaaed2ca0a4204bda5017&e=1679438105&bands=796.2096&sid=coder_52
+#EXTINF:-1 tvg-logo="https://canlitv.center/channels/tv8-int.png" alt="Tv8 İNT",Tv8 inT
+https://cdn10.alfastreamtv.com/tv8int.m3u8?tkn=3eji4eXy1wCPmrkl8y7RLw&tms=1677492080&hst=www.ceptv.net&ip=5.178.12.14
+#EXTINF:-1 tvg-logo="http://yoda.az/logos/xazar.png",Xəzər Tv
+http://109.205.166.68/server124/xazar_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/start.png",Kanal S ( Full HD )
+http://149.255.152.199/kanals.m3u8?user=37076&token=59f0715bdc4bf6489ce8794d953298bb&e=1679546268&bands=796.2096.6096&sid=coder_57
+#EXTINF:-1 tvg-logo="https://yoda.az/logos/atv.svg",ATV 
+https://stream.seotoolsm.com/AZ-atv.m3u8
+#EXTINF:-1 tvg-logo="http://yoda.az/logos/atv.svg",ATV 2
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://canlitv.center/channels/arb-tv.png",ARB
+https://mydo.canlitvplayer.com/arb.m3u8?user=37076&token=0d16dc008121bac50d0ba2f7184d2662&e=1677562400&bands=796.2096&sid=coder_52
+#EXTINF:-1 tvg-logo="https://www.canlitv.vin/kanallar/cbc-sports-izle.png", CBC SPORT
+https://api1.canlitvplayer.com/nimplus3eu1.giniko.com/cbcsport/cbcsport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNy8yMDIzIDU6Mzk6MTIgQU0maGFzaF92YWx1ZT1pVyt2QWVDb0dVbXpkTFRSOXM0NHF3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1,Ayı Teddy
+https://panel.sinema.cc/cdn/hls/e22deeadfbb9fa13d2c895689a16383f/master.m3u8
